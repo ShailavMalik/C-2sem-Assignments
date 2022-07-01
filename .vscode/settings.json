@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ino": "arduino-output",
+        "limits.h": "c",
+        "map": "c",
+        "unordered_map": "c",
+        "stdbool.h": "c"
+    }
+}
